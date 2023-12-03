@@ -1,8 +1,6 @@
 {
   "name": "client",
-  "proxy": {
-    "/api/v1/user/login" : "https://blog-app-2gvl.onrender.com"
-  },
+  "proxy": "https://blog-app-fjh3.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
