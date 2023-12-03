@@ -1,6 +1,6 @@
 {
   "name": "client",
-  "proxy": "https://blog-app-fjh3.onrender.com",
+  "proxy": "https://localhost:3000",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
